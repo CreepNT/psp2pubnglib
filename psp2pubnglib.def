@@ -1,0 +1,11 @@
+LIBRARY psp2pubnglib
+
+EXPORTS
+	CNglibVersion
+	CNglibCategoryComboInfo
+	CNglibCategoryComboInfoSize
+	CNglibSysfileGenecatIsPsp2NotSysApp
+	CNglibSysfileGenecatIsPsp2FgApp
+	CNglibSysfileGenecatIsPsp2FgPatch
+	CNglibSysfileGenecatIsPsp2BgApp
+	CNglibSysfileGenecatIsPsp2BgPatch
